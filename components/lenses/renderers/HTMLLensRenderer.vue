@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="row-wrapper">
-      <label for="body">{{ $t("response") }}</label>
+      <label for="body">{{ $t("response_body") }}</label>
       <div>
         <button
           class="icon"
@@ -49,7 +49,7 @@
       </div>
     </div>
     <div id="response-details-wrapper">
-      <ace-editor
+      <SmartAceEditor
         :value="responseBodyText"
         :lang="'html'"
         :options="{

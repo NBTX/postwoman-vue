@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="row-wrapper">
-      <label for="body">{{ $t("response") }}</label>
+      <label for="body">{{ $t("response_body") }}</label>
       <div>
         <button
           class="icon"
@@ -40,9 +40,10 @@
       <p class="info"><i class="material-icons">error_outline</i> Invalid JSON</p>
     </div>
     <div id="response-details-wrapper">
-      <ace-editor
+      <SmartAceEditor
         :value="jsonBodyText"
         :lang="'json'"
+        :provideJSONOutline="true"
         :options="{
           maxLines: responseBodyMaxLines,
           minLines: '16',

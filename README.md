@@ -10,7 +10,7 @@
   </p>
   <p>
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)](https://hoppscotch.io) [![Travis Build Status](https://img.shields.io/travis/com/hoppscotch/hoppscotch/main?logo=Travis)](https://travis-ci.com/hoppscotch/hoppscotch) [![GitHub release](https://img.shields.io/github/release/hoppscotch/hoppscotch/all?logo=GitHub)](https://github.com/hoppscotch/hoppscotch/releases/latest) [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fhoppscotch.io%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fhoppscotch.io&text=%F0%9F%91%BD%20hoppscotch%20%E2%80%A2%20API%20request%20builder%20-%20Helps%20you%20create%20your%20requests%20faster%2C%20saving%20you%20precious%20time%20on%20your%20development&original_referer=https%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3D%25F0%259F%2591%25BD%2520hoppscotch%2520%25E2%2580%25A2%2520API%2520request%2520builder%2520-%2520Helps%2520you%2520create%2520your%2520requests%2520faster%2C%2520saving%2520you%2520precious%2520time%2520on%2520your%2520development%26url%3Dhttps%3A%2F%2Fhoppscotch.io%26hashtags%3Dhoppscotch%26via%3Dliyasthomas&via=liyasthomas&hashtags=hoppscotch)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)](https://hoppscotch.io) [![Travis Build Status](https://img.shields.io/travis/com/hoppscotch/hoppscotch/main?logo=Travis)](https://travis-ci.com/hoppscotch/hoppscotch) [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fhoppscotch.io%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fhoppscotch.io&text=%F0%9F%91%BD%20Hoppscotch%20%E2%80%A2%20API%20request%20builder%20-%20Helps%20you%20create%20requests%20faster%2C%20saving%20precious%20time%20on%20development&original_referer=https%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3D%25F0%259F%2591%25BD%2520Hoppscotch%2520%25E2%2580%25A2%2520API%2520request%2520builder%2520-%2520Helps%2520you%2520create%2520requests%2520faster%2C%2520saving%2520precious%2520time%2520on%2520development%26url%3Dhttps%3A%2F%2Fhoppscotch.io%26hashtags%3Dhoppscotch%26via%3Dliyasthomas&via=liyasthomas&hashtags=hoppscotch)
 
   </p>
   <p>
@@ -20,6 +20,15 @@
     </sub>
   </p>
 </div>
+
+<p align="center">
+  <b>Sponsored by</b>
+  <br>
+  <br>
+  <a href="https://appwrite.io/?utm_source=hoppscotch&utm_medium=banner&utm_campaign=hello" title="Appwrite" target="_blank">
+    <img height="60px" src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/assets/images/appwrite-banner.svg" title="Appwrite">
+  </a>
+</p>
 
 <div align="center">
   <a href="https://hoppscotch.io"><img src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/static/images/screenshot1.png" alt="Screenshot1" width="100%"></a>
@@ -34,7 +43,7 @@
 [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-GitHub-181717?logo=github)](https://github.com/sponsors/hoppscotch) [![Contribute on Open Collective](https://img.shields.io/badge/contribute-Open%20Collective-7FADF2?logo=open-collective)](https://opencollective.com/hoppscotch) [![Join on Patreon](https://img.shields.io/badge/join-Patreon-F96854?logo=patreon)](https://www.patreon.com/liyasthomas) [![Donate on PayPal](https://img.shields.io/badge/donate-PayPal-00457C?logo=paypal)](https://www.paypal.me/liyascthomas)
 
 <details>
-  <summary><i><ins>Table of contents</ins></i></summary>
+  <summary><i>Table of contents</i></summary>
 
 ---
 
@@ -50,20 +59,15 @@
 - [Releasing](#releasing)
 - [Contributing](#contributing)
 - [Continuous Integration](#continuous-integration)
-- [Versioning](#versioning)
 - [Changelog](#changelog)
 - [Authors](#authors)
   - [Lead Developers](#lead-developers)
-  - [Testing and Debugging](#testing-and-debugging)
   - [Collaborators](#collaborators-)
-  - [Thanks](#thanks)
   - [Financial Contributors](#financial-contributors)
     - [GitHub Sponsors](#github-sponsors)
     - [Open Collective](#open-collective)
   - [Code Contributors](#code-contributors)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Badges](#badges)
 
 ---
 
@@ -76,7 +80,7 @@
 ⚡️ **Fast:** Send requests and get/copy responses in real-time.
 
 <details>
-  <summary><i><ins>HTTP Methods</ins></i></summary>
+  <summary><i>HTTP Methods</i></summary>
 
 ---
 
@@ -98,7 +102,7 @@
 🌈 **Make it yours:** Customizable combinations for background, foreground and accent colors. [Customize now ✨](https://hoppscotch.io/settings)
 
 <details>
-  <summary><i><ins>Theming</ins></i></summary>
+  <summary><i>Theming</i></summary>
 
 ---
 
@@ -116,7 +120,7 @@ _Customized themes are synced with local session storage_
 🔥 **PWA:** Install as a [PWA](https://developers.google.com/web/progressive-web-apps) on your device.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -137,7 +141,7 @@ _Customized themes are synced with local session storage_
 - Send
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -161,7 +165,7 @@ _Customized themes are synced with local session storage_
 🔮 **GraphQL:** GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -178,7 +182,7 @@ _Customized themes are synced with local session storage_
 🔐 **Authentication:** Allows to identify the end user.
 
 <details>
-  <summary><i><ins>Types</ins></i></summary>
+  <summary><i>Types</i></summary>
 
 ---
 
@@ -199,7 +203,7 @@ _Customized themes are synced with local session storage_
 📃 **Request Body:** Used to send and receive data via the REST API.
 
 <details>
-  <summary><i><ins>Options</ins></i></summary>
+  <summary><i>Options</i></summary>
 
 ---
 
@@ -214,7 +218,7 @@ _Customized themes are synced with local session storage_
 👋 **Response:** Contains the status line, headers and the message/response body.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -232,7 +236,7 @@ _Customized themes are synced with local session storage_
 📁 **Collections:** Keep your API requests organized with collections and folders. Reuse them with a single click.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -249,7 +253,7 @@ _Collections are synced with cloud / local session storage_
 🌐 **Proxy:** Enable Proxy Mode from Settings to access blocked APIs.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -267,7 +271,7 @@ _Official Hoppscotch Proxy is hosted by Apollo Software - **[Privacy Policy](htt
 📜 **Pre-Request Scripts β:** Snippets of code associated with a request that are executed before the request is sent.
 
 <details>
-  <summary><i><ins>Use-cases</ins></i></summary>
+  <summary><i>Use-cases</i></summary>
 
 ---
 
@@ -282,7 +286,7 @@ _Official Hoppscotch Proxy is hosted by Apollo Software - **[Privacy Policy](htt
 📄 **API Documentation:** Create and share dynamic API documentation easily, quickly.
 
 <details>
-  <summary><i><ins>Usage</ins></i></summary>
+  <summary><i>Usage</i></summary>
 
 ---
 
@@ -298,10 +302,10 @@ _Official Hoppscotch Proxy is hosted by Apollo Software - **[Privacy Policy](htt
 
 > **[Shortcuts WIki](https://github.com/hoppscotch/hoppscotch/wiki/Shortcuts)**
 
-🌎 **i18n β:** Experience the app in your own language.
+🌎 **i18n:** Experience the app in your own language.
 
 <details>
-  <summary><i><ins>Usage</ins></i></summary>
+  <summary><i>Usage</i></summary>
 
 ---
 
@@ -348,7 +352,7 @@ _Add-ons are developed and maintained under **[Official Hoppscotch Organization]
 ✅ **Post-Request Tests β:** Write tests associated with a request that are executed after the request response.
 
 <details>
-  <summary><i><ins>Use-cases</ins></i></summary>
+  <summary><i>Use-cases</i></summary>
 
 ---
 
@@ -367,7 +371,7 @@ _Notes are only available for signed-in users_
 🌱 **Environments** : Environment variables allow you to store and reuse values in your requests and scripts.
 
 <details>
-  <summary><i><ins>Features</ins></i></summary>
+  <summary><i>Features</i></summary>
 
 ---
 
@@ -380,7 +384,7 @@ _Notes are only available for signed-in users_
 </details>
 
 <details>
-  <summary><i><ins>Use-cases</ins></i></summary>
+  <summary><i>Use-cases</i></summary>
 
 ---
 
@@ -450,7 +454,7 @@ docker run -p 3000:3000 hoppscotch/hoppscotch:latest
 ```
 
 <details>
-  <summary><i><ins>Legacy container</ins></i></summary>
+  <summary><i>Legacy container</i></summary>
 
 ---
 
@@ -486,10 +490,6 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 We use [Travis CI](https://travis-ci.com) for continuous integration. Check out our [Travis CI Status](https://travis-ci.com/hoppscotch/hoppscotch).
 
-## **Versioning**
-
-This project is developed by [Liyas Thomas](https://github.com/liyasthomas) using the [Semantic Versioning specification](https://semver.org). For the versions available, see the [releases on this repository](https://github.com/liyasthomas/hoppscotch/releases).
-
 ## **Changelog**
 
 See the [`CHANGELOG`](CHANGELOG.md) file for details.
@@ -501,10 +501,6 @@ See the [`CHANGELOG`](CHANGELOG.md) file for details.
 - **[Liyas Thomas](https://github.com/liyasthomas)** - _Author_
 - **[Andrew Bastin](https://github.com/andrewbastin)** - _Lead developer_
 - **[Caneco](https://twitter.com/caneco)** - _Logo and banner designer_
-
-### Testing and Debugging
-
-- [Contributors](https://github.com/hoppscotch/hoppscotch/graphs/contributors)
 
 ### Collaborators <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -527,10 +523,6 @@ See the [`CHANGELOG`](CHANGELOG.md) file for details.
 
 See the list of [contributors](https://github.com/hoppscotch/hoppscotch/graphs/contributors) who participated in this project.
 
-### Thanks
-
-- [dev.to 👩‍💻👨‍💻](https://dev.to)
-
 ### Financial Contributors
 
 Become a financial contributor and help us sustain our community [[Support](#support)].
@@ -538,21 +530,18 @@ Become a financial contributor and help us sustain our community [[Support](#sup
 #### GitHub Sponsors
 
 <p align="center">
-<a href="https://www.deta.sh/?ref=hoppscotch" target="_blank" rel="noopener">
-<img
-	width="200"
-	src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/assets/images/hs-gh-banner.png"
-	alt="Deta"
-/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/diningcity-group" target="_blank" rel="noopener">
+<a href="https://github.com/eldadfux" target="_blank" rel="noopener">
 <img
   width="64"
-	src="https://github.com/diningcity-group.png?size=64"
-	alt="DiningCity"
+	src="https://github.com/eldadfux.png?size=64"
+	alt="Eldad A. Fux"
+/>
+</a>
+<a href="https://github.com/aishwarydhare" target="_blank" rel="noopener">
+<img
+  width="64"
+	src="https://github.com/aishwarydhare.png?size=64"
+	alt="Aishwary Dhare"
 />
 </a>
 <a href="https://github.com/rithish" target="_blank" rel="noopener">
@@ -562,25 +551,11 @@ Become a financial contributor and help us sustain our community [[Support](#sup
 	alt="Rithish"
 />
 </a>
-<a href="https://github.com/kcomain" target="_blank" rel="noopener">
-<img
-  width="64"
-	src="https://github.com/kcomain.png?size=64"
-	alt="Kenny Cheung"
-/>
-</a>
 <a href="https://github.com/scmmishra" target="_blank" rel="noopener">
 <img
   width="64"
 	src="https://github.com/scmmishra.png?size=64"
 	alt="Shivam Mishra"
-/>
-</a>
-<a href="https://zach.codes" target="_blank" rel="noopener">
-<img
-  width="64"
-	src="https://github.com/zackify.png?size=64"
-	alt="Zach Silveira"
 />
 </a>
 <a href="https://github.com/pantharshit00" target="_blank" rel="noopener">
@@ -602,13 +577,6 @@ Become a financial contributor and help us sustain our community [[Support](#sup
   width="64"
 	src="https://github.com/gpeal.png?size=64"
 	alt="Gabriel Peal"
-/>
-</a>
-<a href="https://github.com/koddsson" target="_blank" rel="noopener">
-<img
-  width="64"
-	src="https://github.com/koddsson.png?size=64"
-	alt="Kristján Oddsson"
 />
 </a>
 <a href="https://github.com/donokuda" target="_blank" rel="noopener">
@@ -688,102 +656,3 @@ This project exists thanks to all the people who contribute [[Contribute](CONTRI
 ## **License**
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [`LICENSE`](LICENSE) file for details.
-
-## **Acknowledgements**
-
-- Hat tip to anyone whose code was used
-- Inspirations:
-  - [Dribbble](https://dribbble.com)
-
-## **Badges**
-
-<table>
-	<tr>
-		<th>Preview</th>
-		<th>Markdown code</th>
-	</tr>
-	<tbody>
-		<tr>
-			<td align="center" width="200px">
-				<a href="https://hoppscotch.io">
-					<br/>
-					<img src="https://img.shields.io/badge/Tested_on-Hoppscotch-202124?logo=hoppscotch"/>
-				</a>
-				<br/>
-				<sub>
-          Default
-        </sub>
-			</td>
-			<td>
-				<code>[![hoppscotch](https://img.shields.io/badge/Tested_on-Hoppscotch-202124?logo=hoppscotch)](https://hoppscotch.io)</code>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" width="200px">
-				<a href="https://hoppscotch.io">
-					<br/>
-					<img src="https://img.shields.io/badge/Tested_on-Hoppscotch-success?logo=hoppscotch"/>
-				</a>
-				<br/>
-				<sub>
-          Success
-        </sub>
-			</td>
-			<td>
-				<code>[![hoppscotch](https://img.shields.io/badge/Tested_on-Hoppscotch-success?logo=hoppscotch)](https://hoppscotch.io)</code>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" width="200px">
-				<a href="https://hoppscotch.io">
-					<br/>
-					<img src="https://img.shields.io/badge/Tested_on-Hoppscotch-critical?logo=hoppscotch"/>
-				</a>
-				<br/>
-				<sub>
-          Critical
-        </sub>
-			</td>
-			<td>
-				<code>[![hoppscotch](https://img.shields.io/badge/Tested_on-Hoppscotch-critical?logo=hoppscotch)](https://hoppscotch.io)</code>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" width="200px">
-				<a href="https://hoppscotch.io">
-					<br/>
-					<img src="https://img.shields.io/badge/Tested_on-Hoppscotch-blueviolet?logo=hoppscotch"/>
-				</a>
-				<br/>
-				<sub>
-          Custom
-        </sub>
-			</td>
-			<td>
-				<code>[![hoppscotch](https://img.shields.io/badge/Tested_on-Hoppscotch-blueviolet?logo=hoppscotch)](https://hoppscotch.io)</code>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" width="200px">
-				<a href="https://hoppscotch.io">
-					<br/>
-					<img src="https://img.shields.io/badge/your_text-Hoppscotch-hex_color_code?logo=hoppscotch"/>
-				</a>
-				<br/>
-				<sub>
-          Customize
-        </sub>
-			</td>
-			<td>
-				<code>[![hoppscotch](https://img.shields.io/badge/your_text-Hoppscotch-hex_color_code?logo=hoppscotch)](https://hoppscotch.io)</code>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<div align="center">
-  <br>
-  <a href="https://hoppscotch.io"><img src="https://raw.githubusercontent.com/liyasthomas/templates/master/assets/logo.gif" alt="hoppscotch.io" width="200"></a>
-  <br>
-  <h3>Happy Coding ❤︎</h3>
-</div>
